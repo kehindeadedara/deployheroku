@@ -75,7 +75,6 @@ mccabe==0.6.1
 moviepy==0.2.3.2
 msrest==0.6.19
 networkx==2.5
-nltk==3.4.5
 numpy==1.18.0
 oauth2==1.9.0.post1
 oauth2client==3.0.0
